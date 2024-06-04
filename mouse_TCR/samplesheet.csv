@@ -1,0 +1,4 @@
+sample,fastq_1,fastq_2,match_barcode
+X,https://github.com/singleron-RD/scflvdj_test_data/raw/master/mouse_TCR/prefixX_001_R1.fq.gz,https://github.com/singleron-RD/scflvdj_test_data/raw/master/mouse_TCR/prefixX_001_R2.fq.gz,https://github.com/singleron-RD/scflvdj_test_data/raw/master/mouse_TCR/match_barcode/X.matrix/filtered/barcodes.tsv.gz
+X,https://github.com/singleron-RD/scflvdj_test_data/raw/master/mouse_TCR/prefixX_002_R1.fq.gz,https://github.com/singleron-RD/scflvdj_test_data/raw/master/mouse_TCR/prefixX_002_R2.fq.gz,https://github.com/singleron-RD/scflvdj_test_data/raw/master/mouse_TCR/match_barcode/X.matrix/filtered/barcodes.tsv.gz
+Y,https://github.com/singleron-RD/scflvdj_test_data/raw/master/mouse_TCR/prefixY_001_R1.fq.gz,https://github.com/singleron-RD/scflvdj_test_data/raw/master/mouse_TCR/prefixY_001_R2.fq.gz,https://github.com/singleron-RD/scflvdj_test_data/raw/master/mouse_TCR/match_barcode/Y.matrix/filtered/barcodes.tsv.gz
